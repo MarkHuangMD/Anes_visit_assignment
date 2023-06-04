@@ -1,0 +1,16 @@
+Learning from: https://www.youtube.com/watch?v=bqNvkAfTvIc
+
+執行你的 python code
+=> 這樣 terminal 地方的路徑就會是你的 python code 路徑
+
+再 visual studio code 的 terminal 輸入:
+
+#1 STEP: 安裝 pyinstaller
+=> pip install pyinstaller
+
+#2 pytho to exe
+=> pyinstaller 檔名.py --onefile
+
+這樣就會產生在 dis (distribution) 資料夾
+
+	
